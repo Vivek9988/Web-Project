@@ -1,0 +1,18 @@
+.class1{
+    height :10rem;
+    width: 100%;
+    background-color: rgb(236, 202, 202);
+    display: flex;
+        justify-content: center;
+        text-align: center;
+
+}
+.picture{
+    height: 200px;
+    width: 100px;
+background-image: url(box1_image.jpg);
+    background-repeat: no-repeat;
+    /* display: flex;
+    justify-content: center;
+    text-align: center; */
+}
